@@ -1,5 +1,5 @@
 {
-  "name": "jamierumbelow/codeigniter-base-model",
+  "name": "duplexmedia/codeigniter-base-model",
   "type": "library",
   "description": "CodeIgniter base CRUD model to remove repetition and increase productivity",
   "keywords": [
@@ -15,6 +15,11 @@
       "name": "Jamie Rumbelow",
       "email": "jamie@jamierumbelow.net",
       "homepage": "http://jamierumbelow.net"
+    },
+    {
+      "name": "Duplexmedia",
+      "email": "mail@duplexmedia.com",
+      "homepage": "http://duplexmedia.com"
     }
   ],
   "require-dev": {
